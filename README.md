@@ -14,7 +14,7 @@ The corpus is subdivided into three periods, which correspond to three important
 
 (see Norton Anthology of English Literature, Raven).
 
-The texts in the corpus are all available in the public domain and were sourced from Project Gutenberg, Project Gutenberg Australia, and the Oxford Text Archive. Complete texts were used whenever possible.
+The texts in the corpus are all available in the public domain and were sourced from [Project Gutenberg](https://www.gutenberg.org/), [Project Gutenberg Australia](http://gutenberg.net.au/), and the [University of Oxford Text Archive](ota.ox.ac.uk). Complete texts were used whenever possible.
 
 ## Metadata
 
